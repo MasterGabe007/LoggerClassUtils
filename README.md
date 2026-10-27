@@ -20,7 +20,7 @@ Source-tree package usage:
 from LoggerClassUtils import Logger
 ```
 
-See `README_Logger_Import_Methods.md_` for additional examples of other methods of importing the logger_class utility.
+See `README_Logger_Import_Methods.md` for additional examples of other methods of importing the logger_class utility.
 
 ---
 
