@@ -1,0 +1,7 @@
+{"timestamp": "2026-08-30 16:28:51,974", "logger": "my_app", "level": "INFO", "message": "Application started", "taskName": null}
+{"timestamp": "2026-08-30 16:29:44,554", "logger": "my_app", "level": "INFO", "message": "Application started", "taskName": null}
+{"timestamp": "2026-08-30 16:29:44,555", "logger": "my_app", "level": "INFO", "message": "Module A started", "taskName": null, "module_name": "A"}
+{"timestamp": "2026-08-30 16:29:44,555", "logger": "my_app", "level": "WARNING", "message": "Example warning from module A", "taskName": null, "module_name": "A"}
+{"timestamp": "2026-08-30 16:29:44,555", "logger": "my_app", "level": "INFO", "message": "Module B started", "taskName": null, "module_name": "B"}
+{"timestamp": "2026-08-30 16:29:44,555", "logger": "my_app", "level": "ERROR", "message": "Example error from module B", "taskName": null, "module_name": "B", "code": "E42"}
+{"timestamp": "2026-08-30 16:29:44,555", "logger": "my_app", "level": "INFO", "message": "Application finished", "taskName": null}

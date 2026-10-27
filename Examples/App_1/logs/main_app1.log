@@ -1,0 +1,2 @@
+2026-10-27 14:09:34 - INFO - [main_app1.py -> <module>(), LN:6] - hello from caller auto detection
+2026-10-27 14:09:34 - INFO - [main_app1.py -> <module>(), LN:7] - hello from caller given at runtime | caller = main_app_custom_name
